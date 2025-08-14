@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "com.nobleradical.nuclearboiler.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "nuclearboiler.refmap.json",
+  "mixins": [
+    "NuclearBoilerMixin"
+  ],
+  "client": [],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8"
+}
