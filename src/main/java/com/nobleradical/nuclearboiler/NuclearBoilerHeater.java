@@ -3,7 +3,6 @@ package com.nobleradical.nuclearboiler;
 import com.github.alexmodguy.alexscaves.server.block.blockentity.ACBlockEntityRegistry;
 import com.github.alexmodguy.alexscaves.server.block.blockentity.NuclearFurnaceBlockEntity;
 import com.simibubi.create.api.boiler.BoilerHeater;
-import com.simibubi.create.content.fluids.tank.BoilerData;
 import net.minecraft.core.BlockPos;
 import net.minecraft.world.level.Level;
 import net.minecraft.world.level.block.entity.BlockEntity;
